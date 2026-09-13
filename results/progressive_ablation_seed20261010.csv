@@ -1,0 +1,6 @@
+level,model,configuration,mean_percent,sd_percent,subjects,folds_per_subject
+1,unified_carrier,Unified 28-channel carrier,89.064426,12.662469,15,5
+2,dual_branch,Region-specific dual branch,90.016807,11.519176,15,5
+3,dual_branch_cd,Frontal common/difference summaries,90.180672,11.587503,15,5
+4,dual_branch_cd_interaction,Bidirectional token interaction,90.280112,11.369963,15,5
+5,feei_full,Regional evidence interaction and gated refinement,90.756303,10.920208,15,5

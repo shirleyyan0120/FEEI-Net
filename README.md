@@ -146,7 +146,7 @@ The frozen summaries and participant-level values are in `results/`. Values are 
 | MHANet | 79.69 +/- 15.92 | 87.97 +/- 12.36 | 90.07 +/- 11.71 |
 | HCAN | 87.57 +/- 13.11 | 86.94 +/- 13.04 | 89.02 +/- 12.69 |
 
-These baseline results were obtained with the shared training configuration stated above. The full progressive ablation is described in `docs/MODELS.md`; its predeclared FEEI-Net result is retained rather than replaced by an independent rerun.
+These baseline results were obtained with the shared training configuration stated above. The full progressive ablation is described in `docs/MODELS.md`.
 
 ## Baseline attribution
 
